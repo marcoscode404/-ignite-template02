@@ -32,7 +32,9 @@ yarn
 yarn server
 
 depois rode o 
+
 yarn run server 
+
 yarn run dev
 
 

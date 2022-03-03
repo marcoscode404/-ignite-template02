@@ -29,6 +29,7 @@ https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0
 <h1>entre no projeto e rode esses comando </h1>
 
 yarn
+
 yarn server
 
 depois rode o 
